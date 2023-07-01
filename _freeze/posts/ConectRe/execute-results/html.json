@@ -1,7 +1,7 @@
 {
-  "hash": "741c555c5cef208b093b4c118d5ab1fc",
+  "hash": "d30f327eb30e1f826ab40bde8db11268",
   "result": {
-    "markdown": "---\ntitle: 'MVP #1: ConectRe.com'\ndate: 2022-12-7\ncategories:\n  - mvps\n  - map\nimage: image.png\n---\n\n## Description\n\nComing Soon\n\n",
+    "markdown": "---\ntitle: 'MVP #1: ConectRe.com'\ndate: '2023-06-19'\ncategories:\n  - mvp\n  - real estate\n  - web app\n  - supabase\n  - nextjs\nimage: assets/1_conect_re/RREC.png\ndescription: A personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n---\n\n## The Story\n\nAfter connecting with many students at the Rutgers Real Estate Club, I realized that many of them were looking for a way to stay in touch with their contacts. I decided to build a web app to help them do just that.\n\nIt's publicly available at [ConectRE.com](https://conectre.com){target=\"_blank\"}.\n\n## Key Features\n\n![View of contacts to track information, past conversations, and set reminders.](assets/1_conect_re/contact.png){.bordered}\n\n![Homepage to easily track all contacts and reminders.](assets/1_conect_re/home.png){.bordered}\n\n![Auth powered by Supabase AuthUI with sign in with Google enabled.](assets/1_conect_re/signin.png){.bordered}\n\n## Tech and Stack\n\nThis project was built over two weekends. It uses a NextJS frontend with Supabase as the backend. The frontend is deployed on Vercel. Styling is done with TailwindCSS.\n\n<style>\n    img.bordered {\n        border: 2px solid black;\n    }\n</style>\n\n",
     "supporting": [
       "conectre_files"
     ],

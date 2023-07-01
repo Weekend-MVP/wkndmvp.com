@@ -4,14 +4,28 @@
     "href": "posts/conectre.html",
     "title": "MVP #1: ConectRe.com",
     "section": "",
-    "text": "Coming Soon"
+    "text": "After connecting with many students at the Rutgers Real Estate Club, I realized that many of them were looking for a way to stay in touch with their contacts. I decided to build a web app to help them do just that.\nIt’s publicly available at ConectRE.com."
+  },
+  {
+    "objectID": "posts/conectre.html#key-features",
+    "href": "posts/conectre.html#key-features",
+    "title": "MVP #1: ConectRe.com",
+    "section": "Key Features",
+    "text": "Key Features\n\n\n\nView of contacts to track information, past conversations, and set reminders.\n\n\n\n\n\nHomepage to easily track all contacts and reminders.\n\n\n\n\n\nAuth powered by Supabase AuthUI with sign in with Google enabled."
+  },
+  {
+    "objectID": "posts/conectre.html#tech-and-stack",
+    "href": "posts/conectre.html#tech-and-stack",
+    "title": "MVP #1: ConectRe.com",
+    "section": "Tech and Stack",
+    "text": "Tech and Stack\nThis project was built over two weekends. It uses a NextJS frontend with Supabase as the backend. The frontend is deployed on Vercel. Styling is done with TailwindCSS."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Projects",
     "section": "",
-    "text": "MVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvps\n\n\nmap\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "MVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvp\n\n\nreal estate\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n\n\n\n\n\n\nJun 19, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

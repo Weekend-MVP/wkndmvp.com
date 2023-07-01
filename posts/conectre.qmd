@@ -1,13 +1,32 @@
 ---
 jupyter: python3
 title: "MVP #1: ConectRe.com"
-date: "2022-12-7"
-categories: [mvps, map]
-image: "image.png"
+date: "2023-06-19"
+categories: [mvp, real estate, web app, supabase, nextjs]
+image: "assets/1_conect_re/RREC.png"
+description: "A personal CRM to help students maintain and build profesional relationships in the Real Estate industry."
 ---
 
+## The Story
 
-## Description
+After connecting with many students at the Rutgers Real Estate Club, I realized that many of them were looking for a way to stay in touch with their contacts. I decided to build a web app to help them do just that.
 
-Coming Soon
+It's publicly available at [ConectRE.com](https://conectre.com){target="_blank"}.
 
+## Key Features
+
+![View of contacts to track information, past conversations, and set reminders.](assets/1_conect_re/contact.png){.bordered}
+
+![Homepage to easily track all contacts and reminders.](assets/1_conect_re/home.png){.bordered}
+
+![Auth powered by Supabase AuthUI with sign in with Google enabled.](assets/1_conect_re/signin.png){.bordered}
+
+## Tech and Stack
+
+This project was built over two weekends. It uses a NextJS frontend with Supabase as the backend. The frontend is deployed on Vercel. Styling is done with TailwindCSS.
+
+<style>
+    img.bordered {
+        border: 2px solid black;
+    }
+</style>

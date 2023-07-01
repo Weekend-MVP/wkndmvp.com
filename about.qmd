@@ -19,21 +19,21 @@ Weekend MVP was started to challenge the idea that bringing an idea to reality s
 
 In fact, we've set out to prove that a few engineers can launch products in as short as a single weekend!
 
-Follow along the journey as we build in public.
-
 ## Have an idea?
 
 We're looking for entrepreneurs, influencers, and creative thinkers to share their ideas and stories.
 
-If you'd like to be eligible for a free MVP, please submit your idea below.
+If you'd like to be eligible for a free MVP, dm us on twitter or submit your idea below.
 
-[Submit your idea here](https://airtable.com/)
+[Submit your idea here]() (to do: add a form)
 
 ## Engineers and Designers
 
 Interested in working on a Weekend MVP?
 
-[Work on a Weekend MVP](https://airtable.com/)
+DM us on twitter
+
+[Work on a Weekend MVP]() (to do: add form)
 
 :::
 

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Weekend MVP"
+  site-url: https://wkndmvp.github.io
+  description: "A great sample blog"
+  favicon : Logo.png
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      # - icon: linkedin
+        # href: https://www.linkedin.com/in/giancarlo-pisciotta/
+      - icon: twitter
+        href: https://twitter.com/weekend_mvp
+format:
+  html:
+    theme: default
+    css: styles.css
+
+
+

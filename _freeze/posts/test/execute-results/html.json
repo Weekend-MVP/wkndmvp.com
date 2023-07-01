@@ -1,0 +1,11 @@
+{
+  "hash": "c755a5ad0d48f0568cd5df2a9cabfbe1",
+  "result": {
+    "markdown": "---\ntitle: Test\ndate: 2022-12-7\ncategories:\n  - analysis\n  - map\nimage: image.png\n---\n\n## Description\n\nComing Soon\n\n",
+    "supporting": [
+      "test_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

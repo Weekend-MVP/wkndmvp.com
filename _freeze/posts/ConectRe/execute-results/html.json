@@ -1,0 +1,11 @@
+{
+  "hash": "741c555c5cef208b093b4c118d5ab1fc",
+  "result": {
+    "markdown": "---\ntitle: 'MVP #1: ConectRe.com'\ndate: 2022-12-7\ncategories:\n  - mvps\n  - map\nimage: image.png\n---\n\n## Description\n\nComing Soon\n\n",
+    "supporting": [
+      "conectre_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

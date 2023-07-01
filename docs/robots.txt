@@ -1,1 +1,1 @@
-Sitemap: https://wkndmvp.github.io/sitemap.xml
+Sitemap: https://weekend-mvp.github.io/wkndmvp.github.io/sitemap.xml

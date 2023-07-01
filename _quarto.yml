@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Weekend MVP"
-  site-url: https://wkndmvp.github.io
+  site-url: https://weekend-mvp.github.io/wkndmvp.github.io/
   description: "A great sample blog"
   favicon : Logo.png
   navbar:

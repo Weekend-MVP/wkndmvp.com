@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts/fitpics.html",
+    "href": "posts/fitpics.html",
+    "title": "MVP #2: FitPics.co",
+    "section": "",
+    "text": "A conversation with personal fitness trainer Mohammed “Mo” Ahmed (@mobamba_fitness on Instagram) inspired our latest product, Fitpics.co. Mo has spent years transforming his physique and health and has begun sharing his knowledge through personal training. With his first clients, he shared with us the value of keeping them accountable by having them send progress pictures after each workout. This led our team to the concept of a text based accountability partner and progress tracker."
+  },
+  {
+    "objectID": "posts/fitpics.html#final-product-and-features",
+    "href": "posts/fitpics.html#final-product-and-features",
+    "title": "MVP #2: FitPics.co",
+    "section": "Final Product and Features",
+    "text": "Final Product and Features\n\n\n\nEnter your phone number to opt-in to curated daily motivational videos and texts.\n\n\n\n\n\nUpload past photos from your camera role or text in a progress photo anytime.\n\n\n\n\n\nTrack your progress over time and greate a progress video in just one click."
+  },
+  {
+    "objectID": "posts/fitpics.html#how-we-built-it",
+    "href": "posts/fitpics.html#how-we-built-it",
+    "title": "MVP #2: FitPics.co",
+    "section": "How We Built It",
+    "text": "How We Built It\n\nSupabase for our database and user authentication\nNext.js for our frontend\nTwilio for our SMS messaging\nVercel for our hosting\nshadcn for styling\n\nThis project was built by two engineers over two weekends.\nIt’s publicly available and free at FitPics.co.\nCheck out out on Twitter @weekend_mvp."
+  },
+  {
     "objectID": "posts/conectre.html",
     "href": "posts/conectre.html",
     "title": "MVP #1: ConectRe.com",
@@ -25,7 +46,7 @@
     "href": "index.html",
     "title": "Projects",
     "section": "",
-    "text": "MVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvp\n\n\nreal estate\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n\n\n\n\n\n\nJun 19, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "MVP #2: FitPics.co\n\n\n\n\n\n\n\nmvp\n\n\nfitness\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA motivational app that texts you and tracks your gym progress.\n\n\n\n\n\n\nJul 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvp\n\n\nreal estate\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n\n\n\n\n\n\nJun 19, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

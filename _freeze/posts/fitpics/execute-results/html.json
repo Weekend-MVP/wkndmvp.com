@@ -1,0 +1,11 @@
+{
+  "hash": "edead688056b17de109c03ea6ee09d40",
+  "result": {
+    "markdown": "---\ntitle: 'MVP #2: FitPics.co'\ndate: '2023-07-03'\ncategories:\n  - mvp\n  - fitness\n  - web app\n  - supabase\n  - nextjs\nimage: assets/2_fitpics/video.gif\ndescription: A motivational app that texts you and tracks your gym progress.\n---\n\n## The Story\n\nA conversation with personal fitness trainer Mohammed “Mo” Ahmed ([@mobamba_fitness](https://www.instagram.com/mobamba_fit/){target=\"_blank\"} on Instagram) inspired our latest product, [Fitpics.co](https://fitpics.co){target=\"_blank\"}. Mo has spent years transforming his physique and health and has begun sharing his knowledge through personal training. With his first clients, he shared with us the value of keeping them accountable by having them send progress pictures after each workout. This led our team to the concept of a text based accountability partner and progress tracker.\n\n\n## Final Product and Features\n\n![Enter your phone number to opt-in to curated daily motivational videos and texts.](assets/2_fitpics/subscribe.jpg)\n\n![Upload past photos from your camera role or text in a progress photo anytime.](assets/2_fitpics/upload.jpg)\n\n![Track your progress over time and greate a progress video in just one click.](assets/2_fitpics/video.gif)\n\n## How We Built It\n\n- [Supabase](https://supabase.io/){target=\"_blank\"} for our database and user authentication\n- [Next.js](https://nextjs.org/){target=\"_blank\"} for our frontend\n- [Twilio](https://www.twilio.com/){target=\"_blank\"} for our SMS messaging\n- [Vercel](https://vercel.com/){target=\"_blank\"} for our hosting\n- [shadcn](https://ui.shadcn.com/){target=\"_blank\"} for styling\n\nThis project was built by two engineers over two weekends. \n\nIt's publicly available and free at [FitPics.co](https://fitpics.co/){target=\"_blank\"}.\n\nCheck out out on Twitter [@weekend_mvp](https://twitter.com/weekend_mvp){target=\"_blank\"}.\n\n",
+    "supporting": [
+      "fitpics_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

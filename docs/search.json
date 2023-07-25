@@ -21,6 +21,27 @@
     "text": "How We Built It\n\nSupabase for our database and user authentication\nNext.js for our frontend\nTwilio for our SMS messaging\nVercel for our hosting\nshadcn for styling\n\nThis project was built by two engineers over two weekends.\nIt’s publicly available and free at FitPics.co.\nCheck out out on Twitter @weekend_mvp."
   },
   {
+    "objectID": "posts/whyimsingle.html",
+    "href": "posts/whyimsingle.html",
+    "title": "MVP #3: WhyImSingle.lol",
+    "section": "",
+    "text": "The spectacular launch of ChatGPT in November 2022 appears to be one of the most disruptive technologies of the past decade. Although OpenAI’s large language models seem to have all the answers, it feels like we’ve been left with more questions than ever before. While meaning, purposes, and education are all under question, the team at Weekend MVP’s biggest question was how SEO might be disrupted by artificial intelligence. To explore this, we used GPT-4 to generate hundreds of pages and launched WhyImSingle.lol, a leaderboard-style blog site that humorously covers news on high-profile celebrity and socialite divorces."
+  },
+  {
+    "objectID": "posts/whyimsingle.html#final-product-and-features",
+    "href": "posts/whyimsingle.html#final-product-and-features",
+    "title": "MVP #3: WhyImSingle.lol",
+    "section": "Final Product and Features",
+    "text": "Final Product and Features\n\n\n\nThe homepage has celebrity rankings for biggest winners, biggest losers, and most number of divorces.\n\n\n\n\n\nThe profile pages each feature a multiparagraph blog about the celebrity and their relationship history.\n\n\n\n\n\nThe divorces page shows a rank order of the largest divorce settlments of all time.\n\n\n\n\n\nThe divorce page links to the relevant profiles and gives pertanent information to each case.\n\n\n\n\n\nThe lead forms allows viewers to express their interest in a prenuptial agreement or divorce."
+  },
+  {
+    "objectID": "posts/whyimsingle.html#how-we-built-it",
+    "href": "posts/whyimsingle.html#how-we-built-it",
+    "title": "MVP #3: WhyImSingle.lol",
+    "section": "How We Built It",
+    "text": "How We Built It\n\nOpenAI GPT-4 API for content generation\nFlask python web framework\nSQLite database\nSQLAlchemy for querying our database\nPythonAnywhere for hosting\nJinja for HTML templating\nBootstrap for styling\n\nThis project was built by two engineers over 1.5 weekends.\nIt’s publicly available and free at WhyImSingle.lol.\nCheck out out on Twitter @weekend_mvp."
+  },
+  {
     "objectID": "posts/conectre.html",
     "href": "posts/conectre.html",
     "title": "MVP #1: ConectRe.com",
@@ -46,7 +67,7 @@
     "href": "index.html",
     "title": "Projects",
     "section": "",
-    "text": "MVP #2: FitPics.co\n\n\n\n\n\n\n\nmvp\n\n\nfitness\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA motivational app that texts you and tracks your gym progress.\n\n\n\n\n\n\nJul 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvp\n\n\nreal estate\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n\n\n\n\n\n\nJun 19, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "MVP #3: WhyImSingle.lol\n\n\n\n\n\n\n\nmvp\n\n\nseo\n\n\npython\n\n\nflask\n\n\nblog\n\n\nai\n\n\n\n\nAn AI powered leaderboard of celebrity divorces.\n\n\n\n\n\n\nJul 24, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMVP #2: FitPics.co\n\n\n\n\n\n\n\nmvp\n\n\nfitness\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA motivational app that texts you and tracks your gym progress.\n\n\n\n\n\n\nJul 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMVP #1: ConectRe.com\n\n\n\n\n\n\n\nmvp\n\n\nreal estate\n\n\nweb app\n\n\nsupabase\n\n\nnextjs\n\n\n\n\nA personal CRM to help students maintain and build profesional relationships in the Real Estate industry.\n\n\n\n\n\n\nJun 19, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

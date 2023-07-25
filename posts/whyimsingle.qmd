@@ -1,0 +1,42 @@
+---
+jupyter: python3
+title: "MVP #3: WhyImSingle.lol"
+date: "2023-07-24"
+categories: [mvp, seo,'python','flask','blog','ai']
+image: "assets/3_whyimsingle/biggestredflags.png"
+description: "An AI powered leaderboard of celebrity divorces."
+---
+## The Story
+
+The spectacular launch of ChatGPT in November 2022 appears to be one of the most disruptive technologies of the past decade. Although OpenAI’s large language models seem to have all the answers, it feels like we’ve been left with more questions than ever before. While meaning, purposes, and education are all under question, the team at Weekend MVP's biggest question was how SEO might be disrupted by artificial intelligence. To explore this, we used GPT-4 to generate hundreds of pages and launched [WhyImSingle.lol](https://www.whyimsingle.lol/){target="_blank"}, a leaderboard-style blog site that humorously covers news on high-profile celebrity and socialite divorces.
+
+
+## Final Product and Features
+
+![The homepage has celebrity rankings for biggest winners, biggest losers, and most number of divorces.](assets/3_whyimsingle/biggestredflags.png)
+
+![The profile pages each feature a multiparagraph blog about the celebrity and their relationship history.](assets/3_whyimsingle/profilepage.png)
+
+![The divorces page shows a rank order of the largest divorce settlments of all time.](assets/3_whyimsingle/divorces.png)
+
+![The divorce page links to the relevant profiles and gives pertanent information to each case.](assets/3_whyimsingle/divorcepage.png)
+
+
+![The lead forms allows viewers to express their interest in a prenuptial agreement or divorce.](assets/3_whyimsingle/form.png)
+
+## How We Built It
+
+- [OpenAI GPT-4 API](https://platform.openai.com/){target="_blank"} for content generation
+- [Flask](http://flask.pocoo.org/){target="_blank"} python web framework
+- [SQLite](https://www.sqlite.org/index.html){target="_blank"} database
+- [SQLAlchemy](https://www.sqlalchemy.org/){target="_blank"} for querying our database
+- [PythonAnywhere](https://www.pythonanywhere.com/){target="_blank"} for hosting
+- [Jinja](https://jinja.palletsprojects.com/){target="_blank"} for HTML templating
+- [Bootstrap](https://getbootstrap.com/){target="_blank"} for styling
+
+
+This project was built by two engineers over 1.5 weekends. 
+
+It's publicly available and free at [WhyImSingle.lol](https://www.whyimsingle.lol/){target="_blank"}.
+
+Check out out on Twitter [@weekend_mvp](https://twitter.com/weekend_mvp){target="_blank"}.
